@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shasanka-Roy/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Shasanka-Roy/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Shasanka-Roy/DSA/tree/master/0041-first-missing-positive) |
@@ -49,6 +50,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shasanka-Roy/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Shasanka-Roy/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0088-merge-sorted-array) |
@@ -58,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shasanka-Roy/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shasanka-Roy/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Shasanka-Roy/DSA/tree/master/0229-majority-element-ii) |
