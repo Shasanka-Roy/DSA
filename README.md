@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Shasanka-Roy/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Shasanka-Roy/DSA/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Shasanka-Roy/DSA/tree/master/0075-sort-colors) |
@@ -47,6 +48,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Shasanka-Roy/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Shasanka-Roy/DSA/tree/master/0344-reverse-string) |
