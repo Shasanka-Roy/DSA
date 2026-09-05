@@ -109,5 +109,14 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shasanka-Roy/DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Shasanka-Roy/DSA/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shasanka-Roy/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shasanka-Roy/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
