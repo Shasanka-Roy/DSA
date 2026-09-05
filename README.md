@@ -7,6 +7,7 @@
 | [0036-valid-sudoku](https://github.com/Shasanka-Roy/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Shasanka-Roy/DSA/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Shasanka-Roy/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shasanka-Roy/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shasanka-Roy/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Shasanka-Roy/DSA/tree/master/0229-majority-element-ii) |
@@ -47,12 +48,14 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shasanka-Roy/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Shasanka-Roy/DSA/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/Shasanka-Roy/DSA/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shasanka-Roy/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Shasanka-Roy/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shasanka-Roy/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
