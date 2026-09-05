@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shasanka-Roy/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shasanka-Roy/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shasanka-Roy/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Shasanka-Roy/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shasanka-Roy/DSA/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shasanka-Roy/DSA/tree/master/0304-range-sum-query-2d-immutable) |
@@ -51,6 +52,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Shasanka-Roy/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shasanka-Roy/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Shasanka-Roy/DSA/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/Shasanka-Roy/DSA/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shasanka-Roy/DSA/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shasanka-Roy/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
