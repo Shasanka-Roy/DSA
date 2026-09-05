@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/Shasanka-Roy/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shasanka-Roy/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shasanka-Roy/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Shasanka-Roy/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shasanka-Roy/DSA/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shasanka-Roy/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Shasanka-Roy/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shasanka-Roy/DSA/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Shasanka-Roy/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Shasanka-Roy/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shasanka-Roy/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/Shasanka-Roy/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Shasanka-Roy/DSA/tree/master/0706-design-hashmap) |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shasanka-Roy/DSA/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Shasanka-Roy/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shasanka-Roy/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
@@ -69,6 +72,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Shasanka-Roy/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shasanka-Roy/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -92,4 +96,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shasanka-Roy/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Shasanka-Roy/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
