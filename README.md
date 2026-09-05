@@ -48,6 +48,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Shasanka-Roy/DSA/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Shasanka-Roy/DSA/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/Shasanka-Roy/DSA/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shasanka-Roy/DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Shasanka-Roy/DSA/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/Shasanka-Roy/DSA/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
