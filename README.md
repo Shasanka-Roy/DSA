@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shasanka-Roy/DSA/tree/master/0075-sort-colors) |
+| [0238-product-of-array-except-self](https://github.com/Shasanka-Roy/DSA/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shasanka-Roy/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Shasanka-Roy/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/Shasanka-Roy/DSA/tree/master/0705-design-hashset) |
@@ -75,5 +76,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shasanka-Roy/DSA/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shasanka-Roy/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
