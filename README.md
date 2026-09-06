@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shasanka-Roy/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shasanka-Roy/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shasanka-Roy/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shasanka-Roy/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shasanka-Roy/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shasanka-Roy/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shasanka-Roy/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shasanka-Roy/DSA/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shasanka-Roy/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Shasanka-Roy/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shasanka-Roy/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shasanka-Roy/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -181,6 +183,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shasanka-Roy/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shasanka-Roy/DSA/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
