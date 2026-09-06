@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shasanka-Roy/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Shasanka-Roy/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shasanka-Roy/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shasanka-Roy/DSA/tree/master/0018-4sum) |
@@ -115,6 +116,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shasanka-Roy/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/Shasanka-Roy/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -198,6 +200,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shasanka-Roy/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Shasanka-Roy/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Shasanka-Roy/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
