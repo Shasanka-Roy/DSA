@@ -36,6 +36,7 @@
 | [0706-design-hashmap](https://github.com/Shasanka-Roy/DSA/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Shasanka-Roy/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shasanka-Roy/DSA/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Shasanka-Roy/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Shasanka-Roy/DSA/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -199,6 +200,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Shasanka-Roy/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Shasanka-Roy/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Shasanka-Roy/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Shasanka-Roy/DSA/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
