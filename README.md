@@ -41,6 +41,7 @@
 | [0739-daily-temperatures](https://github.com/Shasanka-Roy/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Shasanka-Roy/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Shasanka-Roy/DSA/tree/master/0881-boats-to-save-people) |
+| [1095-find-in-mountain-array](https://github.com/Shasanka-Roy/DSA/tree/master/1095-find-in-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | [0658-find-k-closest-elements](https://github.com/Shasanka-Roy/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Shasanka-Roy/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shasanka-Roy/DSA/tree/master/0875-koko-eating-bananas) |
+| [1095-find-in-mountain-array](https://github.com/Shasanka-Roy/DSA/tree/master/1095-find-in-mountain-array) |
 ## Math
 |  |
 | ------- |
@@ -271,4 +273,12 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Shasanka-Roy/DSA/tree/master/0394-decode-string) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Shasanka-Roy/DSA/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Shasanka-Roy/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
