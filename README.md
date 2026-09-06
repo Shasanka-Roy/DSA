@@ -61,6 +61,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Shasanka-Roy/DSA/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/Shasanka-Roy/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Shasanka-Roy/DSA/tree/master/0706-design-hashmap) |
 ## Design
@@ -272,6 +273,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Shasanka-Roy/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Shasanka-Roy/DSA/tree/master/0394-decode-string) |
 ## Interactive
 |  |
