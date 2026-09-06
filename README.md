@@ -29,6 +29,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shasanka-Roy/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Shasanka-Roy/DSA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Shasanka-Roy/DSA/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Shasanka-Roy/DSA/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Shasanka-Roy/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Shasanka-Roy/DSA/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Shasanka-Roy/DSA/tree/master/0735-asteroid-collision) |
@@ -192,6 +193,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shasanka-Roy/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shasanka-Roy/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Shasanka-Roy/DSA/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/Shasanka-Roy/DSA/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
