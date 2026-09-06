@@ -34,6 +34,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shasanka-Roy/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Shasanka-Roy/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Shasanka-Roy/DSA/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Shasanka-Roy/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Shasanka-Roy/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Shasanka-Roy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shasanka-Roy/DSA/tree/master/0229-majority-element-ii) |
@@ -147,6 +148,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shasanka-Roy/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Shasanka-Roy/DSA/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Shasanka-Roy/DSA/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Shasanka-Roy/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shasanka-Roy/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shasanka-Roy/DSA/tree/master/0567-permutation-in-string) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shasanka-Roy/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Shasanka-Roy/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shasanka-Roy/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shasanka-Roy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shasanka-Roy/DSA/tree/master/0424-longest-repeating-character-replacement) |
