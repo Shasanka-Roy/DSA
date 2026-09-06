@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shasanka-Roy/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shasanka-Roy/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shasanka-Roy/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Shasanka-Roy/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Shasanka-Roy/DSA/tree/master/0706-design-hashmap) |
@@ -163,6 +164,7 @@
 | [0020-valid-parentheses](https://github.com/Shasanka-Roy/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shasanka-Roy/DSA/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Shasanka-Roy/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shasanka-Roy/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Shasanka-Roy/DSA/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shasanka-Roy/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shasanka-Roy/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Shasanka-Roy/DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
