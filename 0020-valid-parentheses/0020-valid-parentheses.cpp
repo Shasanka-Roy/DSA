@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool isValid(string s) {
-
         stack<char> st;
 
         for (char c : s) {
@@ -10,29 +9,31 @@ public:
             if (c == '(' || c == '[' || c == '{') {
                 st.push(c);
             }
-
-            // Closing brackets
             else {
-
-                if (st.empty())
+                // No opening bracket to match
+                if (st.empty()) {
                     return false;
+                }
 
                 char top = st.top();
-
-                if (c == ')' && top != '(')
-                    return false;
-
-                if (c == ']' && top != '[')
-                    return false;
-
-                if (c == '}' && top != '{')
-                    return false;
-
                 st.pop();
+
+                // Check matching pair
+                if (c == ')' && top != '(') {
+                    return false;
+                }
+
+                if (c == ']' && top != '[') {
+                    return false;
+                }
+
+                if (c == '}' && top != '{') {
+                    return false;
+                }
             }
         }
 
-        // Stack should be empty
+        // Stack must be empty
         return st.empty();
     }
 };
