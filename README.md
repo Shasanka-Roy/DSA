@@ -63,6 +63,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shasanka-Roy/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shasanka-Roy/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shasanka-Roy/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shasanka-Roy/DSA/tree/master/0141-linked-list-cycle) |
@@ -225,6 +226,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shasanka-Roy/DSA/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shasanka-Roy/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shasanka-Roy/DSA/tree/master/0189-rotate-array) |
 ## Greedy
@@ -282,6 +284,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shasanka-Roy/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shasanka-Roy/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Shasanka-Roy/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Shasanka-Roy/DSA/tree/master/0206-reverse-linked-list) |
