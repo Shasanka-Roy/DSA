@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shasanka-Roy/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shasanka-Roy/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shasanka-Roy/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -52,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shasanka-Roy/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shasanka-Roy/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shasanka-Roy/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shasanka-Roy/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Shasanka-Roy/DSA/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shasanka-Roy/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
