@@ -31,6 +31,7 @@
 | [0705-design-hashset](https://github.com/Shasanka-Roy/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Shasanka-Roy/DSA/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Shasanka-Roy/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Shasanka-Roy/DSA/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Shasanka-Roy/DSA/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -172,6 +173,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Shasanka-Roy/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Shasanka-Roy/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shasanka-Roy/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Shasanka-Roy/DSA/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shasanka-Roy/DSA/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Shasanka-Roy/DSA/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
